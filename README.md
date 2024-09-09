@@ -2,6 +2,13 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+1. File based routing just like next js
+2. Button: TouchableOpacity
+3. div: View
+4. p,h1,h2: Text
+5. Carousel: Swiper
+6. Simialr to button without clickable ui: TouchableWithoutFeedback
+
 ## Get started
 
 1. Install dependencies
